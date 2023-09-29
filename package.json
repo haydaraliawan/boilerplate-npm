@@ -2,6 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Haydar Ali Awan",
 	"description": "This project is the for freecodecamp",
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
