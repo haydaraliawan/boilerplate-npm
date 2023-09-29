@@ -4,6 +4,7 @@
 	"description": "This project is the for freecodecamp",
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"license": "MIT",
+	"version": "1.0.0",
 
 	"dependencies": {
 		"express": "^4.14.0"
